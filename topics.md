@@ -140,6 +140,7 @@
 
 ## others 
 
+- [simongregorebner/gitea-pages](https://github.com/simongregorebner/gitea-pages) - 
 - [jordantshaw/proxmox2discord](https://github.com/jordantshaw/proxmox2discord) - Proxmox Discord Notifier Service
 - [sharkusmanch/playnite-ludusavi-restic](https://github.com/sharkusmanch/playnite-ludusavi-restic) - Playnite plugin to create game save data snapshots using restic
 - [NoharOSP/Perfect_Works_Build](https://github.com/NoharOSP/Perfect_Works_Build) - Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
