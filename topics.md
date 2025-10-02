@@ -12,8 +12,10 @@
 - [cms](#cms)
 - [css](#css)
 - [deployment](#deployment)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [electron](#electron)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -70,6 +72,10 @@
 
 - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities
 
+## discord 
+
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
+
 ## django 
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -78,6 +84,10 @@
 
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+## electron 
+
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 
 ## git 
 
@@ -111,6 +121,7 @@
 
 ## javascript 
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 
 ## jquery 
@@ -140,6 +151,7 @@
 
 ## others 
 
+- [nginxbeautifier/nginxbeautifier.github.io](https://github.com/nginxbeautifier/nginxbeautifier.github.io) - A simple tool to beatify NGINX config files
 - [simongregorebner/gitea-pages](https://github.com/simongregorebner/gitea-pages) - 
 - [jordantshaw/proxmox2discord](https://github.com/jordantshaw/proxmox2discord) - Proxmox Discord Notifier Service
 - [sharkusmanch/playnite-ludusavi-restic](https://github.com/sharkusmanch/playnite-ludusavi-restic) - Playnite plugin to create game save data snapshots using restic
@@ -206,6 +218,7 @@
 
 ## windows 
 
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
 
 
