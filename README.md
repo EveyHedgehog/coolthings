@@ -21,10 +21,12 @@
 
 ## C 
 
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [KittyPBoxx/pokeemerald-net-demo](https://github.com/KittyPBoxx/pokeemerald-net-demo) - Demo of emerald network functions using a connection to a wii
 
 ## C# # 
 
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [sharkusmanch/playnite-ludusavi-restic](https://github.com/sharkusmanch/playnite-ludusavi-restic) - Playnite plugin to create game save data snapshots using restic
 
 ## C++ 
@@ -46,11 +48,13 @@
 
 ## HTML 
 
+- [nginxbeautifier/nginxbeautifier.github.io](https://github.com/nginxbeautifier/nginxbeautifier.github.io) - A simple tool to beatify NGINX config files
 - [akinuri/image-to-base64](https://github.com/akinuri/image-to-base64) - Encode images in Base64.
 - [eudaemonics/neocities](https://github.com/eudaemonics/neocities) - neocities site
 
 ## JavaScript 
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [FoxInFlame/MinecraftColorCodes](https://github.com/FoxInFlame/MinecraftColorCodes) - A Javascript Plugin for translating Minecraft Color Codes!
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
