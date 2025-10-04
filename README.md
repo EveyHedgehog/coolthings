@@ -48,6 +48,7 @@
 
 ## HTML 
 
+- [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 - [nginxbeautifier/nginxbeautifier.github.io](https://github.com/nginxbeautifier/nginxbeautifier.github.io) - A simple tool to beatify NGINX config files
 - [akinuri/image-to-base64](https://github.com/akinuri/image-to-base64) - Encode images in Base64.
 - [eudaemonics/neocities](https://github.com/eudaemonics/neocities) - neocities site
