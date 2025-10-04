@@ -16,6 +16,7 @@
 - [django](#django)
 - [docker](#docker)
 - [electron](#electron)
+- [emoji](#emoji)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -74,6 +75,7 @@
 
 ## discord 
 
+- [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## django 
@@ -88,6 +90,10 @@
 ## electron 
 
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
+
+## emoji 
+
+- [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 
 ## git 
 
