@@ -43,6 +43,7 @@
 - [typescript](#typescript)
 - [vue](#vue)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## api 
 
@@ -226,6 +227,10 @@
 
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
+
+## youtube 
+
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 
 ## License
