@@ -111,6 +111,7 @@
 
 ## home-assistant 
 
+- [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
 - [bkbilly/lnxlink](https://github.com/bkbilly/lnxlink) - 🖥 Effortlessly manage your Linux machine using MQTT.
 - [jdeath/Hubspace-Homeassistant](https://github.com/jdeath/Hubspace-Homeassistant) - Hubspace Integration for Home Assistant
 
