@@ -12,6 +12,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -63,6 +64,10 @@
 - [drawpile/dpserver](https://github.com/drawpile/dpserver) - All-in-one server package setup script using Docker
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
 - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities
+
+## Jinja 
+
+- [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
 
 ## Others 
 
