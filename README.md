@@ -71,6 +71,7 @@
 
 ## Others 
 
+- [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
 - [abolians/plex_nginx](https://github.com/abolians/plex_nginx) - Plex nginx reverse proxy configuration
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [RobertYim/Acer-Aspire-4750-Series-OpenCore-Config](https://github.com/RobertYim/Acer-Aspire-4750-Series-OpenCore-Config) - 
@@ -97,6 +98,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
