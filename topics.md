@@ -20,6 +20,7 @@
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
+- [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [instagram](#instagram)
@@ -33,6 +34,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [php](#php)
+- [productivity](#productivity)
 - [publishing](#publishing)
 - [react](#react)
 - [rest-api](#rest-api)
@@ -109,6 +111,10 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
+## hacktoberfest 
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
 ## home-assistant 
 
 - [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
@@ -159,6 +165,7 @@
 
 ## others 
 
+- [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
 - [nginxbeautifier/nginxbeautifier.github.io](https://github.com/nginxbeautifier/nginxbeautifier.github.io) - A simple tool to beatify NGINX config files
 - [simongregorebner/gitea-pages](https://github.com/simongregorebner/gitea-pages) - 
 - [jordantshaw/proxmox2discord](https://github.com/jordantshaw/proxmox2discord) - Proxmox Discord Notifier Service
@@ -183,6 +190,10 @@
 ## php 
 
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+## productivity 
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## publishing 
 
