@@ -23,10 +23,12 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [image-processing](#image-processing)
 - [instagram](#instagram)
 - [iot](#iot)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [linux](#linux)
 - [minecraft](#minecraft)
@@ -58,6 +60,7 @@
 
 ## automation 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [bkbilly/lnxlink](https://github.com/bkbilly/lnxlink) - 🖥 Effortlessly manage your Linux machine using MQTT.
 
 ## bash 
@@ -78,6 +81,7 @@
 
 ## discord 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
@@ -87,6 +91,7 @@
 
 ## docker 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
@@ -108,11 +113,13 @@
 
 ## golang 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 
 ## hacktoberfest 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## home-assistant 
@@ -124,6 +131,10 @@
 ## html 
 
 - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities
+
+## image-processing 
+
+- [dinoosauro/ffmpeg-web](https://github.com/dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
 
 ## instagram 
 
@@ -141,6 +152,10 @@
 ## jquery 
 
 - [enginkizil/FeedEk](https://github.com/enginkizil/FeedEk) - FeedEk jQuery RSS/ATOM Feed Plugin
+
+## kubernetes 
+
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 
 ## laravel 
 
@@ -165,6 +180,7 @@
 
 ## others 
 
+- [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
 - [nginxbeautifier/nginxbeautifier.github.io](https://github.com/nginxbeautifier/nginxbeautifier.github.io) - A simple tool to beatify NGINX config files
 - [simongregorebner/gitea-pages](https://github.com/simongregorebner/gitea-pages) - 
@@ -189,6 +205,7 @@
 
 ## php 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## productivity 
@@ -220,6 +237,7 @@
 
 ## telegram 
 
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## twitter 
