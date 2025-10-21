@@ -57,6 +57,7 @@
 
 ## JavaScript 
 
+- [dwpery/ClockWebApp](https://github.com/dwpery/ClockWebApp) - Clock is a Progressive Web App
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [FoxInFlame/MinecraftColorCodes](https://github.com/FoxInFlame/MinecraftColorCodes) - A Javascript Plugin for translating Minecraft Color Codes!
@@ -97,10 +98,12 @@
 
 ## Shell 
 
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
 
 ## TypeScript 
 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [dinoosauro/ffmpeg-web](https://github.com/dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
