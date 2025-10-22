@@ -88,6 +88,10 @@
 
 ## Python 
 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [ObedMorton/EpLinker](https://github.com/ObedMorton/EpLinker) - Tool to create hardlinks for TV series with episode renaming support
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+- [Athozs/hass-additional-ca](https://github.com/Athozs/hass-additional-ca) - Add private Certificate Authority or self-signed certificate into Home Assistant to access 3rd-party services with TLS/SSL.
 - [jordantshaw/proxmox2discord](https://github.com/jordantshaw/proxmox2discord) - Proxmox Discord Notifier Service
 - [bkbilly/lnxlink](https://github.com/bkbilly/lnxlink) - 🖥 Effortlessly manage your Linux machine using MQTT.
 - [jdeath/Hubspace-Homeassistant](https://github.com/jdeath/Hubspace-Homeassistant) - Hubspace Integration for Home Assistant
@@ -103,6 +107,7 @@
 
 ## TypeScript 
 
+- [rathax/textconverter](https://github.com/rathax/textconverter) - 
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [dinoosauro/ffmpeg-web](https://github.com/dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
