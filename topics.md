@@ -9,6 +9,8 @@
 - [atom](#atom)
 - [automation](#automation)
 - [bash](#bash)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cms](#cms)
 - [css](#css)
 - [deployment](#deployment)
@@ -17,6 +19,7 @@
 - [docker](#docker)
 - [electron](#electron)
 - [emoji](#emoji)
+- [firefox](#firefox)
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
@@ -35,6 +38,7 @@
 - [macos](#macos)
 - [minecraft](#minecraft)
 - [nextjs](#nextjs)
+- [nim](#nim)
 - [open-source](#open-source)
 - [others](#others)
 - [php](#php)
@@ -76,6 +80,15 @@
 
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
 
+## chrome 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## chrome-extension 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
 ## cms 
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -114,6 +127,10 @@
 
 - [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 
+## firefox 
+
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
 ## git 
 
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -134,6 +151,7 @@
 
 ## hacktoberfest 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -195,6 +213,10 @@
 
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
 
+## nim 
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+
 ## open-source 
 
 - [dwpery/ClockWebApp](https://github.com/dwpery/ClockWebApp) - Clock is a Progressive Web App
@@ -202,6 +224,7 @@
 
 ## others 
 
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [rathax/textconverter](https://github.com/rathax/textconverter) - 
 - [ObedMorton/EpLinker](https://github.com/ObedMorton/EpLinker) - Tool to create hardlinks for TV series with episode renaming support
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
@@ -238,6 +261,8 @@
 
 ## privacy 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
 ## productivity 
@@ -266,6 +291,8 @@
 
 ## self-hosted 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -290,6 +317,8 @@
 
 ## twitter 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## typescript 
@@ -317,6 +346,9 @@
 
 ## youtube 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 
