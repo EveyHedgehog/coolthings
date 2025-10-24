@@ -20,6 +20,7 @@
 - [Ren'Py](#ren'py)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 
 ## C 
 
@@ -43,6 +44,7 @@
 
 ## Go 
 
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [simongregorebner/gitea-pages](https://github.com/simongregorebner/gitea-pages) - 
@@ -59,6 +61,8 @@
 
 ## JavaScript 
 
+- [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
+- [misenhower/splatoon2.ink](https://github.com/misenhower/splatoon2.ink) - :squid: Current and upcoming map schedules for Splatoon 2
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [dwpery/ClockWebApp](https://github.com/dwpery/ClockWebApp) - Clock is a Progressive Web App
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
@@ -81,6 +85,7 @@
 
 ## Others 
 
+- [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
 - [abolians/plex_nginx](https://github.com/abolians/plex_nginx) - Plex nginx reverse proxy configuration
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
@@ -115,6 +120,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rathax/textconverter](https://github.com/rathax/textconverter) - 
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
@@ -123,6 +129,10 @@
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+
+## Vue 
+
+- [misenhower/splatoon3.ink](https://github.com/misenhower/splatoon3.ink) - 🦑 Splatoon 3 map rotations, Salmon Run schedules, SplatNet gear, and more
 
 
 ## License
