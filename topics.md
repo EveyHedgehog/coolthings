@@ -11,6 +11,7 @@
 - [bash](#bash)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [cloud](#cloud)
 - [cms](#cms)
 - [css](#css)
 - [deployment](#deployment)
@@ -49,9 +50,11 @@
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
 - [self-hosted](#self-hosted)
+- [shell](#shell)
 - [sqlite](#sqlite)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -90,6 +93,10 @@
 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
+## cloud 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## cms 
 
@@ -234,6 +241,7 @@
 
 ## others 
 
+- [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -293,6 +301,10 @@
 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
+## raspberry-pi 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
 ## react 
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -310,6 +322,10 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+
+## shell 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## sqlite 
 
