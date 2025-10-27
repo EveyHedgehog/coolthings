@@ -54,6 +54,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sqlite](#sqlite)
@@ -62,6 +63,7 @@
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -124,6 +126,7 @@
 
 ## docker 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -179,6 +182,7 @@
 
 ## home-assistant 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [Athozs/hass-additional-ca](https://github.com/Athozs/hass-additional-ca) - Add private Certificate Authority or self-signed certificate into Home Assistant to access 3rd-party services with TLS/SSL.
 - [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
 - [bkbilly/lnxlink](https://github.com/bkbilly/lnxlink) - 🖥 Effortlessly manage your Linux machine using MQTT.
@@ -250,6 +254,9 @@
 
 ## others 
 
+- [jocxfin/pwgen](https://github.com/jocxfin/pwgen) - Simple self hosted password generator
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
+- [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) - Easily edit and manage the hosts file for Windows
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
@@ -323,8 +330,13 @@
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
+## security 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## self-hosted 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
@@ -368,6 +380,10 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
+
+## ubuntu 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## vue 
 
