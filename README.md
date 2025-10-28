@@ -24,6 +24,7 @@
 
 ## C 
 
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [KittyPBoxx/pokeemerald-net-demo](https://github.com/KittyPBoxx/pokeemerald-net-demo) - Demo of emerald network functions using a connection to a wii
 
@@ -65,6 +66,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
 - [misenhower/splatoon2.ink](https://github.com/misenhower/splatoon2.ink) - :squid: Current and upcoming map schedules for Splatoon 2
