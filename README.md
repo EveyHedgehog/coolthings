@@ -11,6 +11,7 @@
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Nim](#nim)
@@ -65,6 +66,10 @@
 - [akinuri/image-to-base64](https://github.com/akinuri/image-to-base64) - Encode images in Base64.
 - [eudaemonics/neocities](https://github.com/eudaemonics/neocities) - neocities site
 
+## Handlebars 
+
+- [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
+
 ## JavaScript 
 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -93,6 +98,7 @@
 
 ## Others 
 
+- [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
