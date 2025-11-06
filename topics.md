@@ -260,6 +260,8 @@
 
 ## others 
 
+- [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
+- [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 - [bigmoby/addon-wireguard-client](https://github.com/bigmoby/addon-wireguard-client) - Hassio Add-On Wireguard Client
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [jocxfin/pwgen](https://github.com/jocxfin/pwgen) - Simple self hosted password generator
