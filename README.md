@@ -115,6 +115,8 @@
 
 ## Python 
 
+- [typenoob/nxbt](https://github.com/typenoob/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
+- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [jocxfin/pwgen](https://github.com/jocxfin/pwgen) - Simple self hosted password generator
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
