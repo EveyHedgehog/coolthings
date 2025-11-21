@@ -260,6 +260,7 @@
 
 ## others 
 
+- [typenoob/nxbt](https://github.com/typenoob/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
 - [bigmoby/addon-wireguard-client](https://github.com/bigmoby/addon-wireguard-client) - Hassio Add-On Wireguard Client
@@ -326,6 +327,7 @@
 
 ## python 
 
+- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
 ## raspberry-pi 
@@ -407,6 +409,7 @@
 
 ## webapp 
 
+- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [dwpery/ClockWebApp](https://github.com/dwpery/ClockWebApp) - Clock is a Progressive Web App
 
 ## windows 
