@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -22,6 +23,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Assembly 
+
+- [StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts) - Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base
 
 ## C 
 
