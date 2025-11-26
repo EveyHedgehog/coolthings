@@ -26,6 +26,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
@@ -177,6 +178,10 @@
 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
+## gui 
+
+- [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
+
 ## hacktoberfest 
 
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
@@ -262,6 +267,7 @@
 
 ## others 
 
+- [dail8859/SurroundSelection](https://github.com/dail8859/SurroundSelection) - Notepad++ plugin to automatically surround the selection in quotes/brackets/parenthesis
 - [StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts) - Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base
 - [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
