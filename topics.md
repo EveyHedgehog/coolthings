@@ -267,6 +267,8 @@
 
 ## others 
 
+- [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
+- [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
 - [dail8859/SurroundSelection](https://github.com/dail8859/SurroundSelection) - Notepad++ plugin to automatically surround the selection in quotes/brackets/parenthesis
 - [StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts) - Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base
 - [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
