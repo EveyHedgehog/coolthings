@@ -30,6 +30,7 @@
 
 ## C 
 
+- [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [KittyPBoxx/pokeemerald-net-demo](https://github.com/KittyPBoxx/pokeemerald-net-demo) - Demo of emerald network functions using a connection to a wii
@@ -79,6 +80,7 @@
 
 ## JavaScript 
 
+- [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
