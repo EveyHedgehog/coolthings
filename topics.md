@@ -39,6 +39,7 @@
 - [laravel](#laravel)
 - [linux](#linux)
 - [macos](#macos)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -47,6 +48,7 @@
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [publishing](#publishing)
@@ -244,6 +246,10 @@
 
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 
+## microsoft 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
 ## minecraft 
 
 - [FoxInFlame/MinecraftColorCodes](https://github.com/FoxInFlame/MinecraftColorCodes) - A Javascript Plugin for translating Minecraft Color Codes!
@@ -318,6 +324,10 @@
 ## postgresql 
 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+
+## powershell 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## privacy 
 
@@ -429,6 +439,7 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
