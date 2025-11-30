@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -27,6 +28,10 @@
 ## Assembly 
 
 - [StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts) - Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base
+
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
