@@ -16,6 +16,7 @@
 - [Handlebars](#handlebars)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Lua](#lua)
 - [Nim](#nim)
 - [Others](#others)
 - [PHP](#php)
@@ -106,6 +107,10 @@
 ## Jinja 
 
 - [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
+
+## Lua 
+
+- [wwwwwwzx/gsclua](https://github.com/wwwwwwzx/gsclua) - Lua scripts for GSC games
 
 ## Nim 
 
