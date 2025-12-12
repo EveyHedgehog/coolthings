@@ -176,6 +176,7 @@
 
 ## Vue 
 
+- [mimonelu/klearsky](https://github.com/mimonelu/klearsky) - Klearsky is a web client for Bluesky.
 - [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
 - [misenhower/splatoon3.ink](https://github.com/misenhower/splatoon3.ink) - 🦑 Splatoon 3 map rotations, Salmon Run schedules, SplatNet gear, and more
 
