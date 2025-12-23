@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [Dart](#dart)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
@@ -56,6 +57,10 @@
 - [NoharOSP/Perfect_Works_Build](https://github.com/NoharOSP/Perfect_Works_Build) - Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 - [DinosaurPlanetRecomp/dino-recomp](https://github.com/DinosaurPlanetRecomp/dino-recomp) - A static recompilation/native port of Dinosaur Planet.
 - [birdytsc/clr_unpack](https://github.com/birdytsc/clr_unpack) - 
+
+## Dart 
+
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## GDScript 
 
