@@ -71,6 +71,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [video](#video)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
@@ -451,6 +452,11 @@
 ## ubuntu 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## video 
+
+- [dinoosauro/ffmpeg-web](https://github.com/dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
 ## vue 
 
