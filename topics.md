@@ -301,6 +301,7 @@
 
 ## others 
 
+- [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac)
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [mimonelu/klearsky](https://github.com/mimonelu/klearsky) - Klearsky is a web client for Bluesky.
 - [wwwwwwzx/gsclua](https://github.com/wwwwwwzx/gsclua) - Lua scripts for GSC games
