@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [CherryDT/DynRPG](https://github.com/CherryDT/DynRPG) - The RPG Maker 2003 Plugin SDK
 - [dail8859/SurroundSelection](https://github.com/dail8859/SurroundSelection) - Notepad++ plugin to automatically surround the selection in quotes/brackets/parenthesis
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [NoharOSP/Perfect_Works_Build](https://github.com/NoharOSP/Perfect_Works_Build) - Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
