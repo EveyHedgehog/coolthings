@@ -301,6 +301,8 @@
 
 ## others 
 
+- [fznmeatpopsicle/srb2_k_drrr_md3_tutorials](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials) - Main resource for making md3 models in Blender for SRB2, SRB2K, and DRRR
+- [nalexandru/BlenderCompat](https://github.com/nalexandru/BlenderCompat) - Windows 7 support for Blender 3.x and newer
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
 - [CherryDT/DynRPG](https://github.com/CherryDT/DynRPG) - The RPG Maker 2003 Plugin SDK
@@ -316,7 +318,7 @@
 - [StarBeasts/Star-Beasts](https://github.com/StarBeasts/Star-Beasts) - Gen 1 Fakemon Overhaul hack using pokered-crysaudio as a base
 - [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [thenextbutton/home_assistant](https://github.com/thenextbutton/home_assistant) - A collection of my home assistant blueprints
-- [bigmoby/addon-wireguard-client](https://github.com/bigmoby/addon-wireguard-client) - Hassio Add-On Wireguard Client
+- [bigmoby/addon-wireguard-client](https://github.com/bigmoby/addon-wireguard-client) - Hassio App (or add-on) Wireguard Client
 - [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [jocxfin/pwgen](https://github.com/jocxfin/pwgen) - Simple self hosted password generator
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
