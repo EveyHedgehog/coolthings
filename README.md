@@ -46,6 +46,7 @@
 
 ## C# # 
 
+- [tmarplatt/VegasScripts](https://github.com/tmarplatt/VegasScripts) - C# scripts for Sony Vegas
 - [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) - C# Open-Source Winforms application for uploading files to VirusTotal
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) - Easily edit and manage the hosts file for Windows
