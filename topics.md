@@ -301,6 +301,7 @@
 
 ## others 
 
+- [tmarplatt/VegasScripts](https://github.com/tmarplatt/VegasScripts) - C# scripts for Sony Vegas
 - [fznmeatpopsicle/srb2_k_drrr_md3_tutorials](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials) - Main resource for making md3 models in Blender for SRB2, SRB2K, and DRRR
 - [nalexandru/BlenderCompat](https://github.com/nalexandru/BlenderCompat) - Windows 7 support for Blender 3.x and newer
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
