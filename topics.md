@@ -301,6 +301,8 @@
 
 ## others 
 
+- [roblatour/Push2Run](https://github.com/roblatour/Push2Run) - Push2Run is a free open source home automation program that lets you control your Windows computer
+- [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
 - [nerdydrew/Random-Pokemon-Generator](https://github.com/nerdydrew/Random-Pokemon-Generator) - Source code for randompokemon.com
 - [tmarplatt/VegasScripts](https://github.com/tmarplatt/VegasScripts) - C# scripts for Sony Vegas
 - [fznmeatpopsicle/srb2_k_drrr_md3_tutorials](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials) - Main resource for making md3 models in Blender for SRB2, SRB2K, and DRRR
