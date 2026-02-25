@@ -25,6 +25,7 @@
 - [Ren'Py](#ren'py)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## Assembly 
@@ -178,6 +179,7 @@
 
 ## TypeScript 
 
+- [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
 - [nerdydrew/Random-Pokemon-Generator](https://github.com/nerdydrew/Random-Pokemon-Generator) - Source code for randompokemon.com
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -189,6 +191,10 @@
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Next.js, Tailwind CSS, and PokeApi.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
+
+## Visual Basic .NET 
+
+- [roblatour/Push2Run](https://github.com/roblatour/Push2Run) - Push2Run is a free open source home automation program that lets you control your Windows computer
 
 ## Vue 
 
