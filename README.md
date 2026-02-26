@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 - [CherryDT/DynRPG](https://github.com/CherryDT/DynRPG) - The RPG Maker 2003 Plugin SDK
 - [dail8859/SurroundSelection](https://github.com/dail8859/SurroundSelection) - Notepad++ plugin to automatically surround the selection in quotes/brackets/parenthesis
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
