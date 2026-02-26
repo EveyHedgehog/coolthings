@@ -301,6 +301,7 @@
 
 ## others 
 
+- [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 - [roblatour/Push2Run](https://github.com/roblatour/Push2Run) - Push2Run is a free open source home automation program that lets you control your Windows computer
 - [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
 - [nerdydrew/Random-Pokemon-Generator](https://github.com/nerdydrew/Random-Pokemon-Generator) - Source code for randompokemon.com
