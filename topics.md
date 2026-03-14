@@ -301,6 +301,7 @@
 
 ## others 
 
+- [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) - Pokémon RNG Timer
 - [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 - [roblatour/Push2Run](https://github.com/roblatour/Push2Run) - Push2Run is a free open source home automation program that lets you control your Windows computer
 - [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
@@ -401,6 +402,7 @@
 
 ## react 
 
+- [lincoln-lm/ten-lines](https://github.com/lincoln-lm/ten-lines) - A Suite of Tools for RNG Manipulation in Generation 3
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
 ## rest-api 
