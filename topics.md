@@ -306,6 +306,7 @@
 
 ## others 
 
+- [FiratUsta/Chromora](https://github.com/FiratUsta/Chromora) - A lightweight and fast color palette generator built using pure HTML, CSS & JS .
 - [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) - Pokémon RNG Timer
 - [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 - [roblatour/Push2Run](https://github.com/roblatour/Push2Run) - Push2Run is a free open source home automation program that lets you control your Windows computer
