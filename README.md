@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [FiratUsta/Chromora](https://github.com/FiratUsta/Chromora) - A lightweight and fast color palette generator built using pure HTML, CSS & JS .
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
