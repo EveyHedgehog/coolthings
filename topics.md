@@ -307,6 +307,7 @@
 
 ## others 
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [FiratUsta/Chromora](https://github.com/FiratUsta/Chromora) - A lightweight and fast color palette generator built using pure HTML, CSS & JS .
 - [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) - Pokémon RNG Timer
 - [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
