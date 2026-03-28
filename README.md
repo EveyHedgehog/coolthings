@@ -151,6 +151,7 @@
 
 ## PHP 
 
+- [packistry/packistry](https://github.com/packistry/packistry) - Open Source, Self-Hosted, Composer repository for PHP packages
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
