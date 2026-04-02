@@ -108,7 +108,6 @@
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.
-- [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [TuxInvader/nginx-dns](https://github.com/TuxInvader/nginx-dns) - Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX
@@ -191,6 +190,7 @@
 - [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
 - [nerdydrew/Random-Pokemon-Generator](https://github.com/nerdydrew/Random-Pokemon-Generator) - Source code for randompokemon.com
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
+- [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
