@@ -185,6 +185,7 @@
 
 ## TypeScript 
 
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) - Pokémon RNG Timer
 - [lincoln-lm/ten-lines](https://github.com/lincoln-lm/ten-lines) - A Suite of Tools for RNG Manipulation in Generation 3
 - [afrux/news-widget](https://github.com/afrux/news-widget) - Simple News Fader Widget.
