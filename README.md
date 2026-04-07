@@ -24,6 +24,7 @@
 - [Python](#python)
 - [Ren'Py](#ren'py)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -104,6 +105,7 @@
 
 ## JavaScript 
 
+- [r12a/app-conversion](https://github.com/r12a/app-conversion) - Convert between escape formats.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [FiratUsta/Chromora](https://github.com/FiratUsta/Chromora) - A lightweight and fast color palette generator built using pure HTML, CSS & JS .
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
@@ -184,6 +186,10 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
+
+## Svelte 
+
+- [AkeemAllen/WikiGen](https://github.com/AkeemAllen/WikiGen) - Desktop Application to generate wikis for Pokemon Rom Hacks and Fan Games
 
 ## TypeScript 
 
