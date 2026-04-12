@@ -39,6 +39,7 @@
 
 ## C 
 
+- [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
 - [nalexandru/BlenderCompat](https://github.com/nalexandru/BlenderCompat) - Windows 7 support for Blender 3.x and newer
 - [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac)
 - [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
@@ -193,6 +194,7 @@
 
 ## TypeScript 
 
+- [Vincenius/bsky-embed](https://github.com/Vincenius/bsky-embed) - A web-component to easily embed a bluesky feed.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [DasAmpharos/EonTimer](https://github.com/DasAmpharos/EonTimer) - Pokémon RNG Timer
 - [lincoln-lm/ten-lines](https://github.com/lincoln-lm/ten-lines) - A Suite of Tools for RNG Manipulation in Generation 3
