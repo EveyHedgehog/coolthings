@@ -317,6 +317,8 @@
 
 ## others 
 
+- [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
+- [Vincenius/bsky-embed](https://github.com/Vincenius/bsky-embed) - A web-component to easily embed a bluesky feed.
 - [AkeemAllen/WikiGen](https://github.com/AkeemAllen/WikiGen) - Desktop Application to generate wikis for Pokemon Rom Hacks and Fan Games
 - [r12a/app-conversion](https://github.com/r12a/app-conversion) - Convert between escape formats.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
