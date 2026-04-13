@@ -317,6 +317,7 @@
 
 ## others 
 
+- [saurabhdaware/bsky-widget](https://github.com/saurabhdaware/bsky-widget) - Unofficial Bluesky widget to render cute profile cards in your websites ^_^
 - [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
 - [Vincenius/bsky-embed](https://github.com/Vincenius/bsky-embed) - A web-component to easily embed a bluesky feed.
 - [AkeemAllen/WikiGen](https://github.com/AkeemAllen/WikiGen) - Desktop Application to generate wikis for Pokemon Rom Hacks and Fan Games
