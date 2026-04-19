@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [api](#api)
 - [atom](#atom)
@@ -81,6 +82,10 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [youtube](#youtube)
+
+## ai 
+
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 
 ## android 
 
@@ -398,6 +403,7 @@
 
 ## privacy 
 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
