@@ -162,6 +162,7 @@
 
 ## Python 
 
+- [MarshalX/bluesky-feed-generator](https://github.com/MarshalX/bluesky-feed-generator) - 🦋 Bluesky custom feed algorithms server in Python 🐍
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [fznmeatpopsicle/srb2_k_drrr_md3_tutorials](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials) - Main resource for making md3 models in Blender for SRB2, SRB2K, and DRRR
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
