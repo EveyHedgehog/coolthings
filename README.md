@@ -79,6 +79,8 @@
 
 ## Go 
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
+- [RafhaanShah/Container-Mon](https://github.com/RafhaanShah/Container-Mon) - Get notified when your Docker containers are unhealthy
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs) - The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
