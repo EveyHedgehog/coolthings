@@ -401,7 +401,7 @@
 - [sharkusmanch/playnite-ludusavi-restic](https://github.com/sharkusmanch/playnite-ludusavi-restic) - Playnite plugin to create game save data snapshots using restic
 - [NoharOSP/Perfect_Works_Build](https://github.com/NoharOSP/Perfect_Works_Build) - Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 - [akinuri/image-to-base64](https://github.com/akinuri/image-to-base64) - Encode images in Base64.
-- [DinosaurPlanetRecomp/dino-recomp](https://github.com/DinosaurPlanetRecomp/dino-recomp) - A static recompilation/native port of Dinosaur Planet.
+- [DinosaurPlanetRecomp/dino-recomp](https://github.com/DinosaurPlanetRecomp/dino-recomp) - A static recompilation/native port of Dinosaur Planet (Dec 2000 prototype).
 - [birdytsc/clr_unpack](https://github.com/birdytsc/clr_unpack) - 
 - [drawpile/dpserver](https://github.com/drawpile/dpserver) - All-in-one server package setup script using Docker
 - [abolians/plex_nginx](https://github.com/abolians/plex_nginx) - Plex nginx reverse proxy configuration
