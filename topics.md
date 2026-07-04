@@ -513,7 +513,6 @@
 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [blai30/masterball](https://github.com/blai30/masterball) - Statically served Pokedex web application built with Astro, Tailwind CSS, and PokeApi.
 
 ## telegram 
