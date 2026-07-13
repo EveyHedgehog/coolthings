@@ -404,7 +404,7 @@
 - [DinosaurPlanetRecomp/dino-recomp](https://github.com/DinosaurPlanetRecomp/dino-recomp) - A static recompilation/native port of Dinosaur Planet (Dec 2000 prototype).
 - [birdytsc/clr_unpack](https://github.com/birdytsc/clr_unpack) - 
 - [drawpile/dpserver](https://github.com/drawpile/dpserver) - All-in-one server package setup script using Docker
-- [abolians/plex_nginx](https://github.com/abolians/plex_nginx) - Plex nginx reverse proxy configuration
+- [sarmenat0r/plex_nginx](https://github.com/sarmenat0r/plex_nginx) - Plex nginx reverse proxy configuration
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [RobertYim/Acer-Aspire-4750-Series-OpenCore-Config](https://github.com/RobertYim/Acer-Aspire-4750-Series-OpenCore-Config) - 
