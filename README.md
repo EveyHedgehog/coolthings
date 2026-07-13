@@ -153,7 +153,7 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
-- [abolians/plex_nginx](https://github.com/abolians/plex_nginx) - Plex nginx reverse proxy configuration
+- [sarmenat0r/plex_nginx](https://github.com/sarmenat0r/plex_nginx) - Plex nginx reverse proxy configuration
 - [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [RobertYim/Acer-Aspire-4750-Series-OpenCore-Config](https://github.com/RobertYim/Acer-Aspire-4750-Series-OpenCore-Config) - 
 - [vinhnbvn35/HP-Pavilion-Gaming-15-Hackintosh](https://github.com/vinhnbvn35/HP-Pavilion-Gaming-15-Hackintosh) - 
