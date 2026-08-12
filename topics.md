@@ -349,7 +349,7 @@
 ## others 
 
 - [virtuald/govee-ble-plugs](https://github.com/virtuald/govee-ble-plugs) - Control your Govee Smart Plugs via BLE directly from HomeAssistant
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [MarshalX/bluesky-feed-generator](https://github.com/MarshalX/bluesky-feed-generator) - 🦋 Bluesky custom feed algorithms server in Python 🐍
 - [Polprzewodnikowy/SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 - [saurabhdaware/bsky-widget](https://github.com/saurabhdaware/bsky-widget) - Unofficial Bluesky widget to render cute profile cards in your websites ^_^
