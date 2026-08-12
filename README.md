@@ -203,7 +203,7 @@
 
 ## TypeScript 
 
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [saurabhdaware/bsky-widget](https://github.com/saurabhdaware/bsky-widget) - Unofficial Bluesky widget to render cute profile cards in your websites ^_^
 - [Vincenius/bsky-embed](https://github.com/Vincenius/bsky-embed) - A web-component to easily embed a bluesky feed.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
