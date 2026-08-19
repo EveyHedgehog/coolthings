@@ -39,6 +39,7 @@
 
 ## C 
 
+- [mntorankusu/N64-SwapDumper](https://github.com/mntorankusu/N64-SwapDumper) - Cartridge dumper for N64 games, requiring only a flash cart.
 - [Polprzewodnikowy/SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 - [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
 - [nalexandru/BlenderCompat](https://github.com/nalexandru/BlenderCompat) - Windows 7 support for Blender 3.x and newer
@@ -167,6 +168,7 @@
 
 ## Python 
 
+- [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [virtuald/govee-ble-plugs](https://github.com/virtuald/govee-ble-plugs) - Control your Govee Smart Plugs via BLE directly from HomeAssistant
 - [MarshalX/bluesky-feed-generator](https://github.com/MarshalX/bluesky-feed-generator) - 🦋 Bluesky custom feed algorithms server in Python 🐍
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
