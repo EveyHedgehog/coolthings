@@ -14,6 +14,7 @@
 - [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
 - [csharp](#csharp)
@@ -51,6 +52,7 @@
 - [material-design](#material-design)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [monitoring](#monitoring)
 - [music](#music)
 - [nim](#nim)
 - [nodejs](#nodejs)
@@ -125,6 +127,10 @@
 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+
+## cli 
+
+- [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 
 ## cloud 
 
@@ -242,6 +248,7 @@
 
 ## gui 
 
+- [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win)
 
 ## hacktoberfest 
@@ -328,6 +335,10 @@
 - [FoxInFlame/MinecraftColorCodes](https://github.com/FoxInFlame/MinecraftColorCodes) - A Javascript Plugin for translating Minecraft Color Codes!
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 
+## monitoring 
+
+- [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
+
 ## music 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -348,6 +359,7 @@
 
 ## others 
 
+- [mntorankusu/N64-SwapDumper](https://github.com/mntorankusu/N64-SwapDumper) - Cartridge dumper for N64 games, requiring only a flash cart.
 - [virtuald/govee-ble-plugs](https://github.com/virtuald/govee-ble-plugs) - Control your Govee Smart Plugs via BLE directly from HomeAssistant
 - [MarshalX/bluesky-feed-generator](https://github.com/MarshalX/bluesky-feed-generator) - 🦋 Bluesky custom feed algorithms server in Python 🐍
 - [Polprzewodnikowy/SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
