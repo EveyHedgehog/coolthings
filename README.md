@@ -128,7 +128,6 @@
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [FoxInFlame/MinecraftColorCodes](https://github.com/FoxInFlame/MinecraftColorCodes) - A Javascript Plugin for translating Minecraft Color Codes!
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [drawpile/dpserver](https://github.com/drawpile/dpserver) - All-in-one server package setup script using Docker
@@ -184,6 +183,7 @@
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [Athozs/hass-additional-ca](https://github.com/Athozs/hass-additional-ca) - Add private Certificate Authority or self-signed certificate into Home Assistant to access 3rd-party services with TLS/SSL.
 - [jordantshaw/proxmox2discord](https://github.com/jordantshaw/proxmox2discord) - Proxmox Discord Notifier Service
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [bkbilly/lnxlink](https://github.com/bkbilly/lnxlink) - 🖥 Effortlessly manage your Linux machine using MQTT.
 - [jdeath/Hubspace-Homeassistant](https://github.com/jdeath/Hubspace-Homeassistant) - Hubspace Integration for Home Assistant
 
