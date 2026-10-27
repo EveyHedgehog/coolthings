@@ -18,6 +18,7 @@
 - [JSON](#json)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Nim](#nim)
 - [Others](#others)
@@ -74,7 +75,6 @@
 ## Dart 
 
 - [ferraridamiano/ConverterNOW](https://github.com/ferraridamiano/ConverterNOW) - The Unit Converter app: easy, immediate and multi-platform
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## GDScript 
 
@@ -143,6 +143,10 @@
 
 - [Poeschl-HomeAssistant-Addons/repository](https://github.com/Poeschl-HomeAssistant-Addons/repository) - The Home Assistant Add-on repository of Poeschl
 
+## Kotlin 
+
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+
 ## Lua 
 
 - [wwwwwwzx/gsclua](https://github.com/wwwwwwzx/gsclua) - Lua scripts for GSC games
@@ -159,7 +163,6 @@
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
 - [sarmenat0r/plex_nginx](https://github.com/sarmenat0r/plex_nginx) - Plex nginx reverse proxy configuration
-- [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 - [RobertYim/Acer-Aspire-4750-Series-OpenCore-Config](https://github.com/RobertYim/Acer-Aspire-4750-Series-OpenCore-Config) - 
 - [vinhnbvn35/HP-Pavilion-Gaming-15-Hackintosh](https://github.com/vinhnbvn35/HP-Pavilion-Gaming-15-Hackintosh) - 
 - [dartraiden/NVIDIA-WIn7-Win8-Signed-Driver](https://github.com/dartraiden/NVIDIA-WIn7-Win8-Signed-Driver) - Signed NVIDIA driver for Windows 7 — 8.1
@@ -203,6 +206,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
+- [ThomasRives/Proxmox-over-wifi](https://github.com/ThomasRives/Proxmox-over-wifi) - Tutorial to make Proxmox over wifi
 
 ## Svelte 
 
