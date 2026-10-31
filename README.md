@@ -25,6 +25,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ren'Py](#ren'py)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
@@ -198,6 +199,10 @@
 ## Ren'Py 
 
 - [picobyte/RVRE](https://github.com/picobyte/RVRE) - Ren'Py Visual Runtime Editor
+
+## Rust 
+
+- [frostu8/spingen](https://github.com/frostu8/spingen) - Speen
 
 ## Shell 
 
