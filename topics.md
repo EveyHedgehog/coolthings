@@ -28,6 +28,7 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [game](#game)
@@ -70,6 +71,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -204,6 +206,10 @@
 
 - [sripkunda/Discord-Emoji-Extractor](https://github.com/sripkunda/Discord-Emoji-Extractor) - Extracts image files from discord emojis, server icons, and profile pictures.
 
+## emulator 
+
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
 ## firefox 
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -256,6 +262,7 @@
 
 ## hacktoberfest 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
@@ -491,6 +498,10 @@
 ## rest-api 
 
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
+
+## rust 
+
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## security 
 
