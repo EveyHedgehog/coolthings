@@ -202,6 +202,7 @@
 
 ## Rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [frostu8/spingen](https://github.com/frostu8/spingen) - Speen
 
 ## Shell 
