@@ -121,7 +121,7 @@
 - [cecilbowen/pokemon-sandwich-simulator](https://github.com/cecilbowen/pokemon-sandwich-simulator) - Simulate making sandwiches for Pokemon Scarlet and Violet.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [r12a/app-conversion](https://github.com/r12a/app-conversion) - Convert between escape formats.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [FiratUsta/Chromora](https://github.com/FiratUsta/Chromora) - A lightweight and fast color palette generator built using pure HTML, CSS & JS .
 - [sindresorhus/electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - Context menu for your Electron app
 - [lokesh/lightbox2](https://github.com/lokesh/lightbox2) - THE original Lightbox script (v2).
