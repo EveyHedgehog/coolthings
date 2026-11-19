@@ -371,6 +371,8 @@
 
 ## others 
 
+- [jef/zap2xml](https://github.com/jef/zap2xml) - 📺 Automate TV guides to XMLTV
+- [BuddyChewChew/tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) - ☑️ TUBI web channels ( With EPG )
 - [frostu8/spingen](https://github.com/frostu8/spingen) - Speen
 - [mntorankusu/N64-SwapDumper](https://github.com/mntorankusu/N64-SwapDumper) - Cartridge dumper for N64 games, requiring only a flash cart.
 - [virtuald/govee-ble-plugs](https://github.com/virtuald/govee-ble-plugs) - Control your Govee Smart Plugs via BLE directly from HomeAssistant
