@@ -176,6 +176,7 @@
 
 ## Python 
 
+- [BuddyChewChew/tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) - ☑️ TUBI web channels ( With EPG )
 - [netinvent/npbackup](https://github.com/netinvent/npbackup) - A secure and efficient file backup solution that fits both system administrators (CLI) and end users (GUI)
 - [virtuald/govee-ble-plugs](https://github.com/virtuald/govee-ble-plugs) - Control your Govee Smart Plugs via BLE directly from HomeAssistant
 - [MarshalX/bluesky-feed-generator](https://github.com/MarshalX/bluesky-feed-generator) - 🦋 Bluesky custom feed algorithms server in Python 🐍
@@ -220,6 +221,7 @@
 
 ## TypeScript 
 
+- [jef/zap2xml](https://github.com/jef/zap2xml) - 📺 Automate TV guides to XMLTV
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
 - [saurabhdaware/bsky-widget](https://github.com/saurabhdaware/bsky-widget) - Unofficial Bluesky widget to render cute profile cards in your websites ^_^
 - [Vincenius/bsky-embed](https://github.com/Vincenius/bsky-embed) - A web-component to easily embed a bluesky feed.
