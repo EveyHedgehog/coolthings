@@ -159,7 +159,6 @@
 ## Others 
 
 - [Alex313031/Python-Win7](https://github.com/Alex313031/Python-Win7) - Python 3.8+ installers that support Windows 7 SP1 and Windows Server 2008 R2
-- [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [brumka/PiHole-DOT](https://github.com/brumka/PiHole-DOT) - Building Pi-Hole with DNS over TLS (DOT) for home network
 - [TibixDev/sai2-guide](https://github.com/TibixDev/sai2-guide) - A full guide on getting Paint Tool Sai 2 to work under Linux via Bottles & Wine with full tablet pressure sensitivity
@@ -185,6 +184,7 @@
 - [luigi311/JellyPlex-Watched](https://github.com/luigi311/JellyPlex-Watched) - Sync watched status between jellyfin, plex and emby locally
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
+- [dslatten/nginx_npp](https://github.com/dslatten/nginx_npp) - Notepad++ Nginx User-defined Language - Syntax Highlighting for Nginx Configuration Files
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [jocxfin/pwgen](https://github.com/jocxfin/pwgen) - Simple self hosted password generator
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
